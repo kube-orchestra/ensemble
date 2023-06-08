@@ -6,4 +6,4 @@ Emsemble is the API for multi-cluster resources definition.
 
 ## Kube Orchestra Architecture
 
-![Kube Orchestra Architecture](./arch.png)
+![Kube Orchestra Architecture](./architecture.png)
